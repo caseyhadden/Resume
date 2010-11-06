@@ -71,7 +71,7 @@ Develop features and functionality for the HR domain solution
 * Develop features requested by customers using SAS screen control language (SCL)
 * Lead developer for organizational chart functionality
 * Converted product to HTML using SAS/Internet
-* Assisted in products conversion to Java, JSP, and servlets by reimplementing existing functionality
+* Assisted in product conversion to Java, JSP, and servlets by reimplementing existing functionality
 
 __Center for Instructional Technology, UNC-CH__  
 Student Consultant, October 1998 - May 1999  
